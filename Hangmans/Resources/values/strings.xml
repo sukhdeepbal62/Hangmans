@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="action_settings">Settings</string>
+  <string name="title_new_game">New Game</string>
+  <string name="title_about">About</string>
+  <string name="title_instructions">How to play</string>
+  <string name="title_history">Game History</string>
+  <string name="title_play_again">[ Play Again ]</string>
+  <string name="title_back">[ Back ]</string>
+
+  <string name="title_howto">How Can I Play Tough Game !?</string>
+  <string name="instructions">
+    Hangman is a paper and pencil guessing game for two or more players. 
+    One player thinks of a word, phrase or sentence and the other tries to guess it by 
+    suggesting letters or numbers, within a certain number of guesses.\n\n
+    \n\nI hope you WIN someday :P\n\nAll the best and if you do WIN, take time to pat your back!
+    Yeah, that\'s an achievement. :P
+  </string>
+
+  <string name="about">The Hangman!!!!\n\nDo you like this game?\nShare this among your friends.\n\n</string>
+</resources>
